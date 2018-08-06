@@ -1,0 +1,31 @@
+body {
+    text-align:center;
+    font-family: helvetica;
+    background-color: #bed8f1;
+}
+canvas {
+    border: 4px solid rgb(25,25,112);
+}
+#main{
+    width: 90%;
+    height: 80%;
+}
+#div1{
+    position: relative;
+}
+#div2{
+    position: relative;
+    margin-left: 5%;
+    margin-bottom: 8%;
+    horiz-align: center;
+}
+#control {
+    background-color: #1c7fed;
+    color: white;
+    margin: 30px;
+    text-align: center;
+    font-family: "Bitstream Charter";
+    font-size: 16px;
+    width: 70px;
+    height: 40px;
+}
